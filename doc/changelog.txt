@@ -1,0 +1,3 @@
+Changelog for stub project
+Replace this with actual changelog
+
